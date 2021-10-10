@@ -2,7 +2,7 @@ baseURL = 'https://korrawit.me/'
 languageCode = 'en-us'
 title = 'Korrawit Y.'
 theme = "archie"
-googleAnalytics = "G-767G1NPCN4"
+googleAnalytics = "G-CVFCCWS2JW"
 copyright = "© korrawit"
 # Code Highlight
 pygmentsstyle = "monokai"
