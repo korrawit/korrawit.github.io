@@ -14,6 +14,11 @@ pygmentscodefencesguesssyntax = true
 	useCDN=false # don't use CDNs for fonts and icons, instead serve them locally.
 	subtitle = '"Tell me and I forget, teach me and I may remember, involve me and I learn." — Benjamin Franklin'
 
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'sitemap.xml'
+  priority = 0.5
+  
 # Social Tags
 
 [[params.social]]
